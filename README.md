@@ -1,9 +1,10 @@
 # Introduction to Algorithms and Programming Lab @ AI Master
 
-Introduction to Algorithms and Programming Laboratory, _A. A.2020-21_, **Artificial Intelligence Master Degree in
-Computer Science and Engineering, University of Bologna**.
+Introduction to Algorithms and Programming Laboratory, A.Y. 2020-21 
 
-[Professor Simone Martini](http://cs.unibo.it/~martini) helds the course.
+Course held by [Professor Simone Martini](http://cs.unibo.it/~martini)
+
+Artificial Intelligence Master Degree in Computer Science and Engineering, University of Bologna
 
 ## Instructions to use this repository
 
