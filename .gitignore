@@ -1,0 +1,10 @@
+solutions/004/
+solutions/006/
+solutions/007/
+solutions/008/
+
+notebooks/.ipynb_checkpoints/
+
+.vscode/
+.DS_Store
+notebooks/005-numpy-hidden.ipynb
